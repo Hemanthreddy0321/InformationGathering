@@ -26,11 +26,13 @@ Footprinting is a part of the reconnaissance process which is used for gathering
 http://www.whois.com/whois website to get detailed information about a domain name information including its owner, its registrar, date of registration, expiry, name server, owner's contact information, etc.
 
 ### output
-![Alt text](whois.png)
+![image](https://github.com/user-attachments/assets/caeaa2df-24bb-4322-89cc-63ae3f8b154a)
+
 
 #### Finding IP address:
 ping command is available on Windows as well as on Linux OS. Following is the example to find out the IP address of facebook.com.
-![Alt text](kali.png)
+![image](https://github.com/user-attachments/assets/af09b942-c792-4b9a-b8c5-4304d112e269)
+
 
 #### ip2location.com :
 Finding Hosting Company
@@ -48,19 +50,24 @@ https://web.archive.org/
 #### Webserver Fingerprinting:
 
 #### Netcat:
-![Alt text](netcat.png)
+![image](https://github.com/user-attachments/assets/b5de53c7-1c48-4c16-b7f5-6e516bffd4fb)
+
 
  
 #### nmap:
-![Alt text](nmap.png)
+![image](https://github.com/user-attachments/assets/806999ba-4d81-49d5-80a6-f82ef9afad7c)
+
 
 #### Whatweb:
 
-![Alt text](whatweb.png)
+![image](https://github.com/user-attachments/assets/c8fc8d4e-2cd2-46e5-b1ed-deb47b905af6)
+
 
 #### httprint
 
-![Alt text](httprint.png)
+![image](https://github.com/user-attachments/assets/e54e4f97-4ce2-4b3d-8215-eef8bd90b244)
+
+
 
 ### Tracing the Location
 #### TCP Traceroute:
@@ -72,7 +79,8 @@ https://web.archive.org/
 
 
 #### ICMP Traceroute:
-![Alt text](icmptraceroute.png)
+![image](https://github.com/user-attachments/assets/5d0e6973-0e9a-410e-83ed-c57620b026ac)
+
 
 
 
